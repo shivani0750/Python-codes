@@ -1,4 +1,4 @@
-#snake water gun game
+#snake water gun game 
 import random
 '''
 1 for snake
